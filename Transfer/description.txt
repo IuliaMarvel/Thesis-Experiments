@@ -1,1 +1,1 @@
-For transfer learning 
+For transfer learning (chapter 4)
