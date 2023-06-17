@@ -1,1 +1,1 @@
-For standart training from scratch 
+For standart training from scratch (chapter 2)
